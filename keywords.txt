@@ -1,0 +1,49 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Algoduino	KEYWORD1
+AlgoduinoInit	KEYWORD1
+AlgorandWallet	KEYWORD1
+txn_t KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+getHealth	KEYWORD2
+getSwaggerJson	KEYWORD2
+getAccountInformation	KEYWORD2
+getPendingTransactionsList	KEYWORD2
+getApplication	KEYWORD2
+getBlock	KEYWORD2
+getLedgerSupply	KEYWORD2
+getStatus	KEYWORD2
+getTransactionParams	KEYWORD2
+getPendingTransactionInformation	KEYWORD2
+createWallet	KEYWORD2
+setWallet	KEYWORD2
+printWallet	KEYWORD2
+createTransactionObject	KEYWORD2
+printTransactionObject	KEYWORD2
+sendRawTransaction	KEYWORD2
+decodeFromBase32	KEYWORD2 
+encodeToBase32	KEYWORD2 
+createTransactionBlob	KEYWORD2 
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+BETANET	LITERAL1
+TESTNET	LITERAL1
+MAINNET	LITERAL1
